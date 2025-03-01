@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import './Popular.css'
 import Item from '../Item/Item'
 
-const url='http://localhost:4000';
+const url='https://ecomm-backend-uylx.onrender.com';
 
 const Popular = () => {
    
