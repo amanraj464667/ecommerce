@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import './AddProduct.css'
 import upload_area from '../../assets/upload_area.svg'
-const url='http://localhost:4000'
+const url='https://ecomm-backend-uylx.onrender.com'
 
 const AddProduct = () => {
 
