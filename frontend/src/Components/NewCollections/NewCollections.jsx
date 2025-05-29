@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import './NewCollections.css'
 import Item from '../Item/Item'
-const url='https://ecomm-backend-uylx.onrender.com';
+const url='https://ecommerce-nddh.onrender.com';
 
 const NewCollections = () => {
      
