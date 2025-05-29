@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './CSS/LoginSignup.css'
-const url='https://ecomm-backend-uylx.onrender.com'
+const url='https://ecommerce-nddh.onrender.com'
 
 const LoginSignup = () => {
 
