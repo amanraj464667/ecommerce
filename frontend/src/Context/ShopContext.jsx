@@ -1,6 +1,6 @@
 import React, { createContext, useEffect, useState } from 'react'
 //import all_product from "../Components/Assets/all_product"
-const url='https://ecomm-backend-uylx.onrender.com';
+const url='https://ecommerce-nddh.onrender.com';
 
 export const ShopContext=createContext(null);
 
